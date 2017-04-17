@@ -195,17 +195,16 @@ http://server_domain_or_IP:8000
 
 You should see the default Django index page:
 
-![alt tag](https://github.com/igarag/Django-tutorials/blob/master/it%20worked.png)
-
+<div style="text-align:center"><img src ="https://github.com/igarag/Django-tutorials/blob/master/it%20worked.png" /></div>
 
 If you append /admin to the end of the URL in the address bar, you will be prompted for the administrative username and password you created with the createsuperuser command:
 
-![alt tag](https://github.com/igarag/Django-tutorials/blob/master/login.png)
+<div style="text-align:center"><img src ="https://github.com/igarag/Django-tutorials/blob/master/login.png" /></div>
 
 
 After authenticating, you can access the default Django admin interface:
 
-![alt tag](https://github.com/igarag/Django-tutorials/blob/master/admin.png)
+<div style="text-align:center"><img src ="https://github.com/igarag/Django-tutorials/blob/master/admin.png" /></div>
 
 
 ### Models
