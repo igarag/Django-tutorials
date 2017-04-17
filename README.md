@@ -332,8 +332,8 @@ $ sudo chown :www-data ~/myproject
 
 ### References
 
-[1] - <a href="https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04"> DigitalOcean
+<a href="https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04"> [1] - DigitalOcean
 
-[2] - <a href="https://en.wikipedia.org/wiki/Django_(web_framework)"> Wikipedia
+<a href="https://en.wikipedia.org/wiki/Django_(web_framework)"> [2] - Wikipedia
 
-[3] - <a href=" https://www.djangoproject.com/start/"> DjangoProject
+<a href="https://www.djangoproject.com/start/"> [3] - DjangoProject
