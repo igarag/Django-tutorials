@@ -1,4 +1,4 @@
-# How to Deploy Django 1.10 Framework on Ubuntu 16.04
+# How to Deploy Django-1.10 Framework on Ubuntu 16.04
 
 ## Introduction
 
