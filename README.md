@@ -1,5 +1,3 @@
-# Django-tutorials
-
 # How to Deploy Django 1.10 Framework on Ubuntu 16.04
 
 ## Introduction
@@ -81,7 +79,7 @@ Since we already have a project directory, we will tell Django to install the fi
 $ django-admin.py startproject myproject .
 </pre>
 
-### Adjust the Project Settings
+## Adjust the Project Settings
 
 The first thing we should do with our newly created project files is adjust the settings. Open the settings file with your text editor:
 
