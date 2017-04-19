@@ -338,5 +338,4 @@ $ sudo chown :www-data ~/myproject
 
 <a href="https://en.wikipedia.org/wiki/Django_(web_framework)"> [2] - Wikipedia
 
-<a href="https://www.djangoproject.com/start/"> [3] - DjangoProject
-https://github.com/igarag/Django-tutorials/blob/master/it%.png)
+<a href="https://docs.djangoproject.com/en/1.10/"> [3] - DjangoProject
